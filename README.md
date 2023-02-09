@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/gabrieloporto/faq-accordion-card-main)
+- Live Site URL: [Web page](https://gabrieloporto.github.io/faq-accordion-card-main/)
 
 ## My process
 
