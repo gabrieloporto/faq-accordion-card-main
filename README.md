@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/gabrieloporto/faq-accordion-card-main)
-- Live Site URL: [Web page](https://gabrieloporto.github.io/faq-accordion-card-main/)
+- Solution URL: [Repository](https://github.com/gabrieloporto/faq-accordion-card-main "target=_blank")
+- Live Site URL: [Web page](https://gabrieloporto.github.io/faq-accordion-card-main/ "target=_blank")
 
 ## My process
 
